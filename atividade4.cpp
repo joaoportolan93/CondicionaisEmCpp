@@ -26,5 +26,5 @@
         printf("O numero é escaleno!\n ");
         }
           return false;
-
+      
         }
