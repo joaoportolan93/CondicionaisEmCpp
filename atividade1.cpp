@@ -11,9 +11,6 @@ int main(){
       
     } else {
       printf("Impar.\n");
-      
     }
-
 return false;
-
  } 
